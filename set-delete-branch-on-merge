@@ -8,11 +8,7 @@ import urllib.request
 from typing import Any
 
 ORGS = (
-    'anthonywritescode/',
-    'asottile/',
-    'pre-commit/',
-    'pre-commit-ci/',
-    'pre-commit-ci-demo/',
+    'keller00/',
 )
 
 
